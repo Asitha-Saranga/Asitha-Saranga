@@ -5,8 +5,6 @@
 
 ---
 
-- 🔭 I’m currently working on **Health-Mate Web Application**
-
 - 🌱 I’m currently learning **React and spring boot**
 
 - 📫 How to reach me **asitha.saranga98@gmail.com**
